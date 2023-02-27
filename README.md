@@ -1,2 +1,2 @@
 # comp9417
-![contents](./COMP9417_Project_TeamP.pdf)
+![contents](https://github.com/Shaddock-L/comp9417/blob/main/COMP9417_Project_TeamP.pdf)
